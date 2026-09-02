@@ -1,0 +1,101 @@
+patient_id,patient_name,age,gender,insurance
+1,Varun 001,32,Female,Aetna
+2,Kavya 002,46,Female,Medicare
+3,Diya 003,29,Male,Medicare
+4,Aarav 004,29,Female,Medicaid
+5,Aman 005,21,Female,UnitedHealthcare
+6,Neha 006,46,Male,UnitedHealthcare
+7,Arjun 007,18,Female,Blue Cross
+8,Karan 008,53,Female,Medicaid
+9,Mohit 009,61,Female,Medicare
+10,Aditya 010,30,Male,Aetna
+11,Simran 011,51,Female,Blue Cross
+12,Pooja 012,33,Male,Medicare
+13,Pooja 013,55,Male,UnitedHealthcare
+14,Rohan 014,26,Female,Medicaid
+15,Mohit 015,55,Female,Medicaid
+16,Aisha 016,30,Male,Aetna
+17,Sahil 017,64,Female,Aetna
+18,Isha 018,44,Male,Medicare
+19,Simran 019,39,Female,Medicaid
+20,Sahil 020,66,Male,UnitedHealthcare
+21,Kavya 021,59,Female,Medicaid
+22,Dev 022,22,Male,Blue Cross
+23,Arjun 023,26,Female,UnitedHealthcare
+24,Manish 024,58,Female,Blue Cross
+25,Aditya 025,76,Female,Aetna
+26,Vikram 026,49,Male,UnitedHealthcare
+27,Neha 027,69,Male,Medicaid
+28,Vikram 028,81,Female,Medicare
+29,Aisha 029,32,Female,Medicaid
+30,Nisha 030,72,Female,Blue Cross
+31,Aditya 031,77,Male,UnitedHealthcare
+32,Aisha 032,19,Female,UnitedHealthcare
+33,Mohit 033,52,Male,Medicare
+34,Meera 034,73,Female,Blue Cross
+35,Aarav 035,51,Female,UnitedHealthcare
+36,Shreya 036,31,Male,UnitedHealthcare
+37,Simran 037,43,Female,Aetna
+38,Mohit 038,38,Female,UnitedHealthcare
+39,Karan 039,80,Female,Medicare
+40,Shreya 040,64,Male,Medicaid
+41,Priya 041,48,Female,Medicare
+42,Tanya 042,80,Female,UnitedHealthcare
+43,Mohit 043,34,Female,Blue Cross
+44,Pooja 044,39,Male,UnitedHealthcare
+45,Aisha 045,72,Female,UnitedHealthcare
+46,Mohit 046,43,Male,Blue Cross
+47,Diya 047,65,Male,UnitedHealthcare
+48,Sahil 048,33,Female,Medicaid
+49,Rahul 049,61,Female,UnitedHealthcare
+50,Pooja 050,47,Female,Medicare
+51,Rahul 051,25,Female,Medicare
+52,Manish 052,22,Male,Medicare
+53,Aman 053,48,Male,Blue Cross
+54,Rohan 054,34,Male,Medicaid
+55,Nisha 055,78,Male,Medicaid
+56,Sneha 056,30,Male,Aetna
+57,Neha 057,70,Male,Medicare
+58,Diya 058,30,Female,Blue Cross
+59,Tanya 059,61,Female,Medicaid
+60,Rohan 060,42,Male,Medicaid
+61,Neha 061,41,Male,Blue Cross
+62,Kavya 062,27,Male,UnitedHealthcare
+63,Sneha 063,24,Female,Medicare
+64,Shreya 064,48,Female,Blue Cross
+65,Riya 065,79,Female,Blue Cross
+66,Manish 066,25,Female,Blue Cross
+67,Aarav 067,67,Male,Blue Cross
+68,Meera 068,72,Male,Medicaid
+69,Rohan 069,55,Female,Medicare
+70,Nikhil 070,25,Male,Medicare
+71,Priya 071,79,Female,Medicare
+72,Aman 072,28,Female,Medicare
+73,Simran 073,26,Female,Blue Cross
+74,Sneha 074,49,Female,UnitedHealthcare
+75,Rahul 075,71,Male,Aetna
+76,Rohan 076,58,Female,Aetna
+77,Aditya 077,34,Male,Blue Cross
+78,Karan 078,27,Female,Blue Cross
+79,Simran 079,30,Female,UnitedHealthcare
+80,Rohan 080,82,Male,Medicaid
+81,Shreya 081,62,Female,Medicaid
+82,Isha 082,54,Female,Blue Cross
+83,Dev 083,56,Female,UnitedHealthcare
+84,Meera 084,31,Female,Aetna
+85,Sneha 085,31,Female,Aetna
+86,Meera 086,44,Male,Medicaid
+87,Diya 087,51,Male,Aetna
+88,Manish 088,24,Female,Blue Cross
+89,Dev 089,53,Female,Medicare
+90,Karan 090,34,Male,Medicaid
+91,Tanya 091,74,Male,UnitedHealthcare
+92,Aarav 092,32,Female,Medicaid
+93,Pooja 093,22,Male,UnitedHealthcare
+94,Pooja 094,36,Male,Medicaid
+95,Priya 095,57,Male,Medicare
+96,Manish 096,63,Female,Medicaid
+97,Diya 097,31,Male,UnitedHealthcare
+98,Manish 098,70,Female,Medicaid
+99,Aisha 099,38,Female,Blue Cross
+100,Aarav 100,40,Male,Blue Cross

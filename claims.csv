@@ -1,0 +1,301 @@
+claim_id,patient_id,provider,service_date,procedure_code,billed_amount,claim_status,denial_reason
+1001,21,Dr. Wilson,2026-04-08,93000,228.27,Paid,
+1002,26,Dr. Anderson,2026-03-31,36415,38.31,Paid,
+1003,4,Dr. Garcia,2026-04-13,93000,135.8,Paid,
+1004,45,Dr. Miller,2026-06-23,99214,641.89,Paid,
+1005,15,Dr. Thompson,2026-02-15,71046,245.15,Paid,
+1006,14,Dr. Miller,2026-03-30,80053,142.0,Paid,
+1007,78,Dr. Wilson,2026-04-09,71046,324.88,Pending,
+1008,6,Dr. Miller,2026-01-01,93000,168.39,Paid,
+1009,56,Dr. Wilson,2026-06-20,93000,236.53,Paid,
+1010,93,Dr. Thompson,2026-05-10,71046,177.32,Paid,
+1011,52,Dr. Thompson,2026-05-22,74177,640.02,Paid,
+1012,87,Dr. Patel,2026-06-07,74177,1126.02,Pending,
+1013,1,Dr. Thompson,2026-03-15,74177,731.2,Denied,Missing documentation
+1014,57,Dr. Anderson,2026-06-22,71046,153.43,Pending,
+1015,85,Dr. Wilson,2026-03-14,36415,50.93,Paid,
+1016,97,Dr. Garcia,2026-06-22,71046,177.6,Paid,
+1017,4,Dr. Carter,2026-03-04,93000,247.27,Paid,
+1018,54,Dr. Garcia,2026-07-03,99214,519.43,Pending,
+1019,32,Dr. Patel,2026-06-17,36415,61.26,Pending,
+1020,29,Dr. Patel,2026-07-25,99214,631.93,Pending,
+1021,72,Dr. Garcia,2026-02-01,36415,47.39,Paid,
+1022,72,Dr. Brown,2026-07-13,36415,73.49,Denied,Missing documentation
+1023,58,Dr. Patel,2026-07-10,74177,1447.64,Denied,Duplicate claim
+1024,82,Dr. Thompson,2026-07-16,80053,148.87,Paid,
+1025,36,Dr. Anderson,2026-01-20,36415,62.81,Paid,
+1026,43,Dr. Brown,2026-05-19,93000,93.7,Paid,
+1027,50,Dr. Patel,2026-06-30,99215,428.37,Paid,
+1028,43,Dr. Anderson,2026-04-17,74177,568.49,Pending,
+1029,99,Dr. Carter,2026-07-15,74177,1133.26,Pending,
+1030,46,Dr. Thompson,2026-07-12,36415,43.4,Paid,
+1031,96,Dr. Garcia,2026-05-05,74177,741.36,Denied,Duplicate claim
+1032,50,Dr. Brown,2026-06-21,36415,60.75,Paid,
+1033,60,Dr. Patel,2026-06-09,74177,1087.54,Paid,
+1034,73,Dr. Carter,2026-01-22,74177,1207.02,Denied,Coding error
+1035,7,Dr. Thompson,2026-04-08,36415,39.64,Paid,
+1036,44,Dr. Miller,2026-03-13,36415,65.12,Paid,
+1037,11,Dr. Anderson,2026-01-05,74177,1323.93,Paid,
+1038,29,Dr. Wilson,2026-07-19,99213,437.19,Paid,
+1039,32,Dr. Garcia,2026-01-06,99213,336.4,Paid,
+1040,61,Dr. Wilson,2026-05-25,93000,241.12,Paid,
+1041,99,Dr. Brown,2026-02-12,36415,56.35,Paid,
+1042,40,Dr. Wilson,2026-05-29,99214,231.04,Paid,
+1043,87,Dr. Miller,2026-04-12,80053,171.81,Denied,Coding error
+1044,89,Dr. Garcia,2026-01-27,99214,519.79,Denied,Eligibility issue
+1045,6,Dr. Brown,2026-05-17,99214,404.2,Denied,Eligibility issue
+1046,83,Dr. Brown,2026-01-04,99214,585.32,Denied,Duplicate claim
+1047,47,Dr. Anderson,2026-07-01,99214,285.79,Pending,
+1048,84,Dr. Thompson,2026-06-07,99215,784.92,Denied,Missing documentation
+1049,56,Dr. Thompson,2026-03-24,36415,71.1,Pending,
+1050,58,Dr. Garcia,2026-07-12,99214,419.82,Paid,
+1051,4,Dr. Anderson,2026-03-25,74177,700.02,Paid,
+1052,34,Dr. Brown,2026-03-13,93000,229.65,Paid,
+1053,2,Dr. Garcia,2026-01-22,80053,73.79,Denied,Duplicate claim
+1054,98,Dr. Garcia,2026-06-26,36415,48.57,Denied,Duplicate claim
+1055,12,Dr. Thompson,2026-02-26,36415,44.26,Paid,
+1056,85,Dr. Brown,2026-05-02,93000,174.09,Paid,
+1057,96,Dr. Brown,2026-04-01,71046,275.71,Pending,
+1058,33,Dr. Garcia,2026-01-31,80053,140.98,Paid,
+1059,96,Dr. Patel,2026-02-19,71046,154.1,Paid,
+1060,93,Dr. Thompson,2026-01-26,36415,69.96,Paid,
+1061,47,Dr. Patel,2026-03-19,80053,41.98,Paid,
+1062,6,Dr. Carter,2026-05-22,99215,475.28,Paid,
+1063,14,Dr. Carter,2026-05-27,99215,470.6,Pending,
+1064,44,Dr. Patel,2026-01-14,36415,35.15,Pending,
+1065,9,Dr. Miller,2026-05-06,36415,24.44,Paid,
+1066,20,Dr. Thompson,2026-01-22,99213,448.18,Paid,
+1067,98,Dr. Miller,2026-06-05,99214,476.33,Denied,Missing documentation
+1068,49,Dr. Anderson,2026-04-24,93000,130.55,Denied,Missing documentation
+1069,73,Dr. Carter,2026-06-06,74177,1556.12,Paid,
+1070,81,Dr. Garcia,2026-03-09,99214,503.98,Paid,
+1071,23,Dr. Wilson,2026-02-10,99215,301.61,Paid,
+1072,61,Dr. Thompson,2026-01-09,36415,33.89,Denied,Eligibility issue
+1073,88,Dr. Garcia,2026-03-09,36415,67.27,Paid,
+1074,15,Dr. Garcia,2026-06-15,93000,105.33,Pending,
+1075,10,Dr. Carter,2026-02-12,80053,150.97,Paid,
+1076,16,Dr. Anderson,2026-06-26,80053,82.57,Pending,
+1077,65,Dr. Anderson,2026-04-23,74177,588.49,Paid,
+1078,95,Dr. Brown,2026-06-04,99213,225.11,Pending,
+1079,87,Dr. Carter,2026-07-15,99214,509.08,Paid,
+1080,6,Dr. Patel,2026-05-01,80053,112.65,Denied,Duplicate claim
+1081,75,Dr. Miller,2026-06-12,80053,153.99,Paid,
+1082,45,Dr. Miller,2026-03-27,99214,358.06,Pending,
+1083,43,Dr. Miller,2026-06-27,99214,433.05,Paid,
+1084,5,Dr. Anderson,2026-01-23,74177,845.97,Denied,Eligibility issue
+1085,66,Dr. Carter,2026-06-18,99214,593.83,Pending,
+1086,7,Dr. Garcia,2026-05-13,36415,41.71,Pending,
+1087,98,Dr. Carter,2026-02-22,36415,36.02,Pending,
+1088,57,Dr. Anderson,2026-02-01,99215,317.32,Paid,
+1089,40,Dr. Carter,2026-05-22,93000,149.36,Paid,
+1090,60,Dr. Wilson,2026-06-15,93000,221.46,Paid,
+1091,66,Dr. Thompson,2026-04-17,36415,70.08,Paid,
+1092,59,Dr. Patel,2026-04-09,36415,31.44,Paid,
+1093,36,Dr. Miller,2026-03-29,99215,860.55,Paid,
+1094,37,Dr. Thompson,2026-05-31,80053,121.19,Paid,
+1095,58,Dr. Anderson,2026-03-30,36415,39.95,Paid,
+1096,42,Dr. Garcia,2026-06-28,74177,762.69,Pending,
+1097,100,Dr. Miller,2026-01-12,74177,849.99,Paid,
+1098,50,Dr. Patel,2026-05-07,36415,77.89,Pending,
+1099,76,Dr. Brown,2026-01-26,99215,824.51,Denied,Duplicate claim
+1100,59,Dr. Carter,2026-07-04,99214,281.99,Denied,Coding error
+1101,34,Dr. Brown,2026-06-09,99214,517.86,Pending,
+1102,87,Dr. Miller,2026-03-23,99214,489.52,Paid,
+1103,5,Dr. Wilson,2026-03-02,36415,57.87,Denied,Eligibility issue
+1104,56,Dr. Wilson,2026-07-14,93000,187.74,Paid,
+1105,22,Dr. Thompson,2026-01-08,99214,239.78,Pending,
+1106,46,Dr. Brown,2026-04-21,99213,193.67,Paid,
+1107,88,Dr. Patel,2026-02-13,74177,692.58,Denied,Missing documentation
+1108,88,Dr. Garcia,2026-05-08,74177,1504.11,Denied,Coding error
+1109,82,Dr. Thompson,2026-04-28,93000,123.41,Pending,
+1110,37,Dr. Patel,2026-01-19,99213,282.52,Pending,
+1111,39,Dr. Miller,2026-06-26,71046,162.52,Denied,Eligibility issue
+1112,62,Dr. Wilson,2026-03-02,93000,144.83,Pending,
+1113,38,Dr. Thompson,2026-01-06,71046,344.49,Denied,Duplicate claim
+1114,73,Dr. Carter,2026-06-05,80053,144.32,Paid,
+1115,78,Dr. Brown,2026-02-26,80053,129.13,Paid,
+1116,81,Dr. Wilson,2026-06-10,80053,130.49,Paid,
+1117,5,Dr. Brown,2026-07-07,80053,58.4,Pending,
+1118,96,Dr. Miller,2026-02-14,80053,68.11,Paid,
+1119,65,Dr. Thompson,2026-02-12,71046,164.24,Denied,Duplicate claim
+1120,15,Dr. Anderson,2026-01-20,80053,59.71,Paid,
+1121,72,Dr. Brown,2026-01-24,93000,214.42,Pending,
+1122,69,Dr. Wilson,2026-04-27,99213,260.58,Paid,
+1123,49,Dr. Brown,2026-01-28,80053,134.48,Denied,Duplicate claim
+1124,72,Dr. Brown,2026-06-06,99213,216.41,Denied,Missing authorization
+1125,84,Dr. Miller,2026-01-30,36415,28.39,Paid,
+1126,64,Dr. Wilson,2026-01-25,99213,220.44,Paid,
+1127,59,Dr. Brown,2026-06-21,99215,869.63,Pending,
+1128,96,Dr. Patel,2026-04-17,74177,1220.41,Denied,Duplicate claim
+1129,5,Dr. Brown,2026-02-25,74177,987.72,Paid,
+1130,13,Dr. Brown,2026-05-20,93000,233.29,Paid,
+1131,51,Dr. Thompson,2026-02-18,71046,342.05,Paid,
+1132,85,Dr. Garcia,2026-06-14,36415,58.37,Paid,
+1133,43,Dr. Garcia,2026-02-02,99213,386.09,Paid,
+1134,98,Dr. Garcia,2026-05-31,93000,116.71,Paid,
+1135,100,Dr. Patel,2026-07-21,93000,233.09,Paid,
+1136,19,Dr. Patel,2026-05-19,99213,225.2,Paid,
+1137,85,Dr. Carter,2026-02-03,99215,308.92,Paid,
+1138,42,Dr. Carter,2026-02-14,93000,125.11,Denied,Coding error
+1139,15,Dr. Wilson,2026-05-02,74177,993.1,Denied,Eligibility issue
+1140,65,Dr. Garcia,2026-06-07,99214,238.65,Pending,
+1141,83,Dr. Carter,2026-01-16,80053,179.8,Pending,
+1142,88,Dr. Wilson,2026-05-06,74177,1283.64,Pending,
+1143,11,Dr. Brown,2026-06-05,36415,28.9,Paid,
+1144,80,Dr. Brown,2026-04-08,99215,896.78,Paid,
+1145,65,Dr. Miller,2026-01-26,80053,151.03,Pending,
+1146,93,Dr. Garcia,2026-04-21,99214,414.17,Denied,Coding error
+1147,59,Dr. Miller,2026-04-17,74177,1302.57,Paid,
+1148,41,Dr. Thompson,2026-04-06,71046,338.4,Pending,
+1149,12,Dr. Wilson,2026-01-24,36415,45.91,Paid,
+1150,72,Dr. Carter,2026-05-31,71046,339.16,Paid,
+1151,53,Dr. Brown,2026-06-20,71046,335.28,Paid,
+1152,37,Dr. Thompson,2026-04-01,74177,613.96,Paid,
+1153,85,Dr. Anderson,2026-02-27,93000,224.04,Paid,
+1154,48,Dr. Wilson,2026-07-15,71046,169.64,Denied,Coding error
+1155,99,Dr. Carter,2026-06-05,74177,1521.99,Denied,Eligibility issue
+1156,35,Dr. Thompson,2026-03-28,99213,255.31,Paid,
+1157,73,Dr. Miller,2026-01-18,99215,385.12,Paid,
+1158,96,Dr. Garcia,2026-04-07,99213,275.95,Paid,
+1159,48,Dr. Thompson,2026-07-04,71046,181.1,Paid,
+1160,20,Dr. Patel,2026-07-13,99214,485.67,Paid,
+1161,57,Dr. Miller,2026-05-05,99214,481.04,Paid,
+1162,28,Dr. Wilson,2026-03-30,74177,972.9,Paid,
+1163,63,Dr. Thompson,2026-01-12,80053,70.87,Denied,Missing documentation
+1164,27,Dr. Thompson,2026-02-24,99213,380.2,Paid,
+1165,42,Dr. Wilson,2026-01-02,80053,109.63,Paid,
+1166,17,Dr. Miller,2026-05-17,74177,1274.04,Paid,
+1167,51,Dr. Carter,2026-04-22,71046,104.69,Paid,
+1168,74,Dr. Miller,2026-05-27,99214,393.9,Paid,
+1169,15,Dr. Miller,2026-01-06,74177,1562.82,Paid,
+1170,59,Dr. Brown,2026-01-23,99215,562.03,Denied,Missing authorization
+1171,76,Dr. Miller,2026-05-15,93000,93.37,Pending,
+1172,29,Dr. Brown,2026-07-19,80053,63.54,Paid,
+1173,66,Dr. Garcia,2026-07-18,99214,370.23,Denied,Coding error
+1174,19,Dr. Thompson,2026-02-20,93000,109.49,Paid,
+1175,23,Dr. Anderson,2026-04-29,99215,752.67,Paid,
+1176,83,Dr. Brown,2026-06-10,36415,38.97,Denied,Duplicate claim
+1177,57,Dr. Thompson,2026-07-23,99214,338.11,Pending,
+1178,65,Dr. Wilson,2026-03-21,99213,288.52,Paid,
+1179,48,Dr. Thompson,2026-01-20,99213,343.4,Paid,
+1180,77,Dr. Miller,2026-04-29,99214,469.54,Denied,Missing authorization
+1181,84,Dr. Garcia,2026-03-24,36415,56.3,Denied,Missing documentation
+1182,58,Dr. Wilson,2026-07-27,99215,839.48,Paid,
+1183,65,Dr. Patel,2026-01-11,71046,161.94,Paid,
+1184,68,Dr. Patel,2026-04-04,36415,42.37,Pending,
+1185,53,Dr. Brown,2026-06-23,80053,123.7,Pending,
+1186,43,Dr. Wilson,2026-05-23,71046,269.59,Paid,
+1187,93,Dr. Patel,2026-03-27,80053,51.41,Paid,
+1188,40,Dr. Miller,2026-02-03,99215,657.02,Paid,
+1189,72,Dr. Miller,2026-06-14,99214,560.41,Paid,
+1190,12,Dr. Miller,2026-05-11,99215,517.1,Denied,Eligibility issue
+1191,28,Dr. Brown,2026-07-16,80053,108.08,Paid,
+1192,20,Dr. Wilson,2026-03-17,93000,223.55,Paid,
+1193,99,Dr. Carter,2026-06-19,99214,364.81,Denied,Missing documentation
+1194,49,Dr. Patel,2026-02-11,99215,408.51,Denied,Missing documentation
+1195,6,Dr. Miller,2026-04-04,99215,705.82,Pending,
+1196,79,Dr. Thompson,2026-07-12,93000,207.25,Pending,
+1197,69,Dr. Garcia,2026-03-21,36415,77.94,Paid,
+1198,48,Dr. Anderson,2026-04-29,36415,66.17,Paid,
+1199,68,Dr. Miller,2026-02-11,74177,1398.58,Denied,Missing documentation
+1200,7,Dr. Anderson,2026-04-06,99215,632.72,Paid,
+1201,16,Dr. Thompson,2026-01-22,99214,548.14,Denied,Eligibility issue
+1202,19,Dr. Miller,2026-01-24,36415,76.78,Denied,Coding error
+1203,4,Dr. Miller,2026-01-14,36415,43.79,Paid,
+1204,50,Dr. Wilson,2026-04-06,71046,156.13,Paid,
+1205,92,Dr. Brown,2026-07-22,71046,136.51,Paid,
+1206,61,Dr. Patel,2026-07-14,99213,361.66,Paid,
+1207,1,Dr. Wilson,2026-01-05,36415,35.36,Denied,Coding error
+1208,100,Dr. Thompson,2026-03-02,74177,831.27,Paid,
+1209,54,Dr. Anderson,2026-01-17,99213,183.26,Paid,
+1210,69,Dr. Carter,2026-06-11,36415,50.92,Denied,Coding error
+1211,55,Dr. Carter,2026-06-07,99215,511.69,Paid,
+1212,86,Dr. Wilson,2026-05-15,74177,1572.12,Paid,
+1213,70,Dr. Carter,2026-04-10,99214,595.53,Denied,Missing authorization
+1214,33,Dr. Carter,2026-04-02,74177,1367.37,Paid,
+1215,94,Dr. Wilson,2026-07-17,71046,245.48,Paid,
+1216,6,Dr. Brown,2026-05-20,71046,184.64,Paid,
+1217,90,Dr. Anderson,2026-06-11,99215,409.37,Pending,
+1218,92,Dr. Anderson,2026-01-10,99215,476.07,Paid,
+1219,6,Dr. Brown,2026-03-21,99213,304.62,Paid,
+1220,5,Dr. Garcia,2026-03-15,36415,41.42,Paid,
+1221,35,Dr. Wilson,2026-07-24,99213,260.41,Paid,
+1222,50,Dr. Brown,2026-02-17,74177,1045.82,Pending,
+1223,67,Dr. Thompson,2026-07-25,36415,24.96,Paid,
+1224,56,Dr. Patel,2026-05-20,74177,823.14,Paid,
+1225,42,Dr. Thompson,2026-03-20,99214,411.74,Paid,
+1226,89,Dr. Anderson,2026-03-31,74177,991.84,Paid,
+1227,56,Dr. Thompson,2026-06-13,71046,345.01,Denied,Missing authorization
+1228,47,Dr. Patel,2026-01-08,99214,281.4,Pending,
+1229,17,Dr. Wilson,2026-03-02,36415,66.71,Paid,
+1230,50,Dr. Carter,2026-06-04,71046,138.36,Paid,
+1231,48,Dr. Anderson,2026-07-15,36415,24.61,Paid,
+1232,47,Dr. Miller,2026-03-22,99215,689.74,Denied,Coding error
+1233,95,Dr. Patel,2026-05-08,99214,442.63,Paid,
+1234,100,Dr. Thompson,2026-06-30,99214,411.9,Paid,
+1235,26,Dr. Wilson,2026-02-04,80053,159.4,Pending,
+1236,92,Dr. Anderson,2026-01-23,36415,68.63,Paid,
+1237,91,Dr. Wilson,2026-05-21,71046,235.54,Paid,
+1238,92,Dr. Patel,2026-07-23,80053,90.61,Paid,
+1239,26,Dr. Patel,2026-03-02,93000,214.36,Paid,
+1240,71,Dr. Brown,2026-04-30,99213,391.1,Paid,
+1241,12,Dr. Wilson,2026-03-21,99215,538.9,Denied,Duplicate claim
+1242,74,Dr. Wilson,2026-02-02,74177,1569.62,Pending,
+1243,60,Dr. Brown,2026-02-02,99214,597.52,Pending,
+1244,56,Dr. Carter,2026-02-01,99215,610.86,Paid,
+1245,21,Dr. Brown,2026-07-01,80053,71.57,Paid,
+1246,33,Dr. Garcia,2026-06-12,80053,173.89,Paid,
+1247,81,Dr. Thompson,2026-06-07,80053,114.69,Paid,
+1248,75,Dr. Patel,2026-02-13,99215,695.24,Denied,Missing documentation
+1249,6,Dr. Carter,2026-01-21,71046,111.37,Denied,Missing documentation
+1250,99,Dr. Miller,2026-06-08,80053,129.46,Paid,
+1251,38,Dr. Thompson,2026-05-04,36415,34.69,Denied,Duplicate claim
+1252,10,Dr. Carter,2026-02-10,80053,101.54,Pending,
+1253,27,Dr. Brown,2026-06-05,36415,28.62,Pending,
+1254,52,Dr. Patel,2026-07-14,71046,192.64,Paid,
+1255,31,Dr. Anderson,2026-02-01,99214,335.01,Paid,
+1256,13,Dr. Carter,2026-03-16,93000,240.72,Paid,
+1257,21,Dr. Brown,2026-05-28,74177,1293.24,Paid,
+1258,64,Dr. Anderson,2026-05-08,93000,229.44,Paid,
+1259,12,Dr. Miller,2026-05-10,36415,47.43,Paid,
+1260,75,Dr. Brown,2026-01-13,93000,88.59,Paid,
+1261,84,Dr. Anderson,2026-03-15,36415,52.2,Denied,Missing authorization
+1262,34,Dr. Brown,2026-07-15,74177,943.58,Paid,
+1263,7,Dr. Garcia,2026-04-03,99213,315.97,Pending,
+1264,65,Dr. Anderson,2026-07-15,99214,456.44,Pending,
+1265,13,Dr. Miller,2026-04-06,99214,561.81,Paid,
+1266,47,Dr. Patel,2026-02-20,71046,250.62,Denied,Duplicate claim
+1267,5,Dr. Patel,2026-07-02,99213,249.91,Paid,
+1268,59,Dr. Patel,2026-06-05,36415,73.59,Denied,Coding error
+1269,41,Dr. Patel,2026-04-11,71046,347.65,Denied,Eligibility issue
+1270,66,Dr. Anderson,2026-07-01,71046,240.73,Denied,Duplicate claim
+1271,43,Dr. Wilson,2026-04-17,99213,325.11,Paid,
+1272,61,Dr. Thompson,2026-06-17,99213,384.87,Denied,Missing documentation
+1273,75,Dr. Anderson,2026-02-13,93000,169.12,Paid,
+1274,88,Dr. Garcia,2026-01-09,74177,1129.83,Paid,
+1275,3,Dr. Anderson,2026-03-22,99214,400.08,Paid,
+1276,53,Dr. Anderson,2026-07-08,74177,1300.14,Paid,
+1277,27,Dr. Brown,2026-06-19,99215,587.02,Denied,Duplicate claim
+1278,59,Dr. Brown,2026-05-20,71046,188.57,Paid,
+1279,62,Dr. Garcia,2026-03-05,80053,79.06,Denied,Eligibility issue
+1280,99,Dr. Thompson,2026-06-30,93000,115.24,Paid,
+1281,62,Dr. Brown,2026-05-24,36415,76.02,Paid,
+1282,16,Dr. Miller,2026-04-12,80053,154.57,Paid,
+1283,6,Dr. Thompson,2026-07-02,99215,347.42,Paid,
+1284,96,Dr. Anderson,2026-02-24,36415,32.12,Paid,
+1285,90,Dr. Thompson,2026-02-05,80053,55.29,Denied,Missing documentation
+1286,7,Dr. Garcia,2026-06-13,93000,119.58,Paid,
+1287,43,Dr. Anderson,2026-01-26,99214,512.91,Pending,
+1288,71,Dr. Patel,2026-04-15,99215,691.74,Paid,
+1289,84,Dr. Garcia,2026-07-13,36415,77.83,Pending,
+1290,83,Dr. Carter,2026-07-16,71046,122.37,Paid,
+1291,95,Dr. Carter,2026-02-14,93000,151.04,Denied,Coding error
+1292,64,Dr. Patel,2026-07-11,99213,438.64,Pending,
+1293,2,Dr. Thompson,2026-05-26,80053,124.39,Paid,
+1294,59,Dr. Anderson,2026-02-04,71046,312.76,Paid,
+1295,25,Dr. Wilson,2026-03-26,36415,29.75,Paid,
+1296,92,Dr. Patel,2026-01-04,36415,64.2,Paid,
+1297,87,Dr. Garcia,2026-02-14,80053,125.53,Denied,Duplicate claim
+1298,42,Dr. Wilson,2026-04-13,74177,1236.18,Denied,Coding error
+1299,42,Dr. Garcia,2026-01-02,99215,456.47,Pending,
+1300,97,Dr. Thompson,2026-03-26,93000,131.33,Pending,
